@@ -4,9 +4,8 @@ p{
     display: block;
 }
 h1{
-    color: hsl(hue, saturation, lightness);
+    color: navy;
     font-size: larger;
     padding: 20px;
     margin: 20px;
-    border: pink dashed;
 }
